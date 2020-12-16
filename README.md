@@ -15,5 +15,6 @@ The survey data is sourced from Open Source Mental Illness (OSMI) from 2014 to 2
 
 ![MH_vs_race](https://user-images.githubusercontent.com/68027568/102305422-a6389d00-3f25-11eb-8eff-84bd763cfc45.png)
 
+<img width="1070" alt="Screen Shot 2020-12-15 at 10 39 09 PM" src="https://user-images.githubusercontent.com/68027568/102305730-5d351880-3f26-11eb-9274-ce2e9a9a80cd.png">
 
 ## Hypothesis Tests
