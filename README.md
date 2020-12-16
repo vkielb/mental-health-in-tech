@@ -11,6 +11,8 @@ The survey data is sourced from Open Source Mental Illness (OSMI) from 2014 to 2
 
 ## EDA: Highlighted Visualizations
 
+![MH_vs_gender](https://user-images.githubusercontent.com/68027568/102305111-c4ea6400-3f24-11eb-8332-6ba9e21ac873.png)
+
 
 
 ## Hypothesis Tests
