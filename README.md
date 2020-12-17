@@ -9,6 +9,8 @@ Nuances within this general inquiry involves exploring the potential relationshi
 ## Data
 The survey data is sourced from Open Source Mental Illness (OSMI) from 2014 to 2019 and is made accessible by Kaggle in a SQLite file (to which we converted to a .CSV file). It is important to note the limitations that exist within this survey, since anyone is able to visit the OSMI website and answer whichever questions they would like. This can lead to (sample/response) biases in the representation of the members within the tech industry.
 
+https://www.kaggle.com/anth7310/mental-health-in-the-tech-industry
+
 ## EDA: Highlighted Visualizations
 
 ![MH_vs_race](https://user-images.githubusercontent.com/68027568/102305422-a6389d00-3f25-11eb-8eff-84bd763cfc45.png)
