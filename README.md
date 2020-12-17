@@ -1,5 +1,5 @@
 # mental-health-in-tech
-Analyzed OSMI mental health survey data to evaluate the relevancy of mental health (i.e. diagnosis, healthcare coverage, open discourse) within the American tech industry.
+*Analyzed OSMI mental health survey data to evaluate the relevancy of mental health (i.e. diagnosis, healthcare coverage, open discourse) within the American tech industry.*
 
 ## Overview
 The goal of this project is to explore the intersection of mental health and the technology industry by analyzing survey results regarding American workers’ perceptions and frequency of mental illness throughout the past five years. Conducting this analysis allows for greater insight into how mental health is considered within an industry that is commonly known for frequent burnouts and high stress levels. 
