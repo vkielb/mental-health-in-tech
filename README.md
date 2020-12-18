@@ -20,3 +20,34 @@ https://www.kaggle.com/anth7310/mental-health-in-the-tech-industry
 <img width="1070" alt="Screen Shot 2020-12-15 at 10 39 09 PM" src="https://user-images.githubusercontent.com/68027568/102305730-5d351880-3f26-11eb-9274-ce2e9a9a80cd.png">
 
 ## Hypothesis Tests
+
+To reach more conclusive results, we ran several hypothesis tests, comparing proportions of individuals impacted by mental health disorders across different cohorts. We ran these tests via randomized permutations of mental health status for each cohort over many simulations to deduce the p-value, assuming each cohort was sampled from the same background population. The p-value was thus calculated by dividing the occurrence of proportions measured as extreme or more extreme than they appeared from this randomized sampling procedure over the number total proportions simulated. 
+
+### Tech Workplace
+
+*H0* : The proportion of workers with a mental health disorder is the same for both tech and non-tech workers.
+*HA* : The proportion of workers with a mental health	 disorder is higher in the tech industry.
+*P-value*: 0.032
+*Conclusion*: We reject the null hypothesis. There is statistically significant evidence to suggest that there is a greater proportion of individuals in tech have mental health disorders than individuals not in tech. 
+
+### Age Means
+
+*H0* : The mean age of individuals with a mental health disorder is the same as the mean age as individuals who do not have a mental health disorder.
+*HA* : The mean age of individuals with a mental health disorder is different than the mean age as individuals who do not have a mental health disorder.
+*P-value*: 0.668
+*Conclusion*: We do not reject the null hypothesis. There is no evidence to suggest a statistically significant difference in mean age between those who are diagnosed and those who are not. 
+
+### Female vs. Male
+
+*H0*: The proportions of males and females with a mental health disorder are the same.
+*HA*: The proportions of males and females with a mental health disorder are different.
+*P-value*: less than 0.0001
+*Conclusion*: We reject the null hypothesis. There is statistically significant evidence to suggest that the proportion of females with a mental health disorder is different from that of males. 
+
+### 'Female & Male' vs. 'Other'
+
+*H0*: The proportions of those who identify as ‘Male or Female’ and those who identify as ‘Other’ with a mental health disorder are the same.
+*HA*: The proportions of those who identify as ‘Male or Female’ and those who identify as ‘Other’ with a mental health disorder are different.
+*P-value*: less than 0.0001
+*Conclusion*: We reject the null hypothesis. There is statistically significant evidence to suggest that the prop. of those who identify as ‘Other’ with a mental illness is different from those who identify as ‘Male or Female.’
+
