@@ -26,11 +26,8 @@ To reach more conclusive results, we ran several hypothesis tests, comparing pro
 ### Tech Workplace
 
 *H<sub>0</sub>*: The proportion of workers with a mental health disorder is the same for both tech and non-tech workers.
-
 *H<sub>A</sub>*: The proportion of workers with a mental health	 disorder is higher in the tech industry.
-
 *P-value*: 0.032
-
 *Conclusion*: We reject the null hypothesis. There is statistically significant evidence to suggest that there is a greater proportion of individuals in tech have mental health disorders than individuals not in tech. 
 
 ### Age Means
@@ -53,7 +50,7 @@ To reach more conclusive results, we ran several hypothesis tests, comparing pro
 
 *Conclusion*: We reject the null hypothesis. There is statistically significant evidence to suggest that the proportion of females with a mental health disorder is different from that of males. 
 
-#### 'Female & Male' vs. 'Other'
+### 'Female & Male' vs. 'Other'
 
 *H<sub>0</sub>*: The proportions of those who identify as ‘Male or Female’ and those who identify as ‘Other’ with a mental health disorder are the same.
 
