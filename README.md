@@ -15,11 +15,11 @@ https://www.kaggle.com/anth7310/mental-health-in-the-tech-industry
 
 ![MH_vs_race](https://user-images.githubusercontent.com/68027568/102305422-a6389d00-3f25-11eb-8eff-84bd763cfc45.png)
 
+<img width="1070" alt="Screen Shot 2020-12-15 at 10 39 09 PM" src="https://user-images.githubusercontent.com/68027568/102305730-5d351880-3f26-11eb-9274-ce2e9a9a80cd.png"> 
+
 ![MH_age_distribution](https://user-images.githubusercontent.com/68027568/102305946-c583fa00-3f26-11eb-806b-8c1f5a8232ac.png)
 
-*Note: The age distribution histogram is not a stacked bar chart of proportions (like the others)—these are three overlaid distributions. We did this in order to understand the scale of the three distributions in comparison to each other.*
-
-<img width="1070" alt="Screen Shot 2020-12-15 at 10 39 09 PM" src="https://user-images.githubusercontent.com/68027568/102305730-5d351880-3f26-11eb-9274-ce2e9a9a80cd.png">
+*Note: The age distribution histogram above is not a stacked bar chart of proportions. These are three overlaid distributions. We did this in order to understand the scale of the three distributions in comparison to each other.*
 
 ## Hypothesis Tests
 
