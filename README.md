@@ -21,7 +21,7 @@ https://www.kaggle.com/anth7310/mental-health-in-the-tech-industry
 
 ## Hypothesis Tests
 
-To reach more conclusive results, we ran several hypothesis tests, comparing proportions of individuals impacted by mental health disorders across different cohorts. We ran these tests via randomized permutations of mental health status for each cohort over many simulations to deduce the p-value, assuming each cohort was sampled from the same background population. The p-value was thus calculated by dividing the occurrence of proportions measured as extreme or more extreme than they appeared from this randomized sampling procedure over the number total proportions simulated. 
+To reach more conclusive results, our group ran several hypothesis tests to which we compared proportions of individuals impacted by mental health disorders across different cohorts. We ran these tests via randomized permutations of mental health status for each cohort over many simulations to deduce the p-value, assuming each cohort was sampled from the same background population. The p-value was thus calculated by dividing the occurrence of proportions measured as extreme or more extreme than they appeared from this randomized sampling procedure over the number total proportions simulated. 
 
 ### Tech Workplace
 
@@ -32,17 +32,6 @@ To reach more conclusive results, we ran several hypothesis tests, comparing pro
 *P-value*: 0.032
 
 *Conclusion*: We reject the null hypothesis. There is statistically significant evidence to suggest that there is a greater proportion of individuals in tech have mental health disorders than individuals not in tech. 
-
-
-### Age Means
-
-*H<sub>0</sub>*: The mean age of individuals with a mental health disorder is the same as the mean age as individuals who do not have a mental health disorder.
-
-*H<sub>A</sub>*: The mean age of individuals with a mental health disorder is different than the mean age as individuals who do not have a mental health disorder.
-
-*P-value*: 0.668
-
-*Conclusion*: We do not reject the null hypothesis. There is no evidence to suggest a statistically significant difference in mean age between those who are diagnosed and those who are not. 
 
 
 ### Female vs. Male
@@ -67,3 +56,12 @@ To reach more conclusive results, we ran several hypothesis tests, comparing pro
 *Conclusion*: We reject the null hypothesis. There is statistically significant evidence to suggest that the prop. of those who identify as ‘Other’ with a mental illness is different from those who identify as ‘Male or Female.’
 
 
+### Age Means
+
+*H<sub>0</sub>*: The mean age of individuals with a mental health disorder is the same as the mean age as individuals who do not have a mental health disorder.
+
+*H<sub>A</sub>*: The mean age of individuals with a mental health disorder is different than the mean age as individuals who do not have a mental health disorder.
+
+*P-value*: 0.668
+
+*Conclusion*: We do not reject the null hypothesis. There is no evidence to suggest a statistically significant difference in mean age between those who are diagnosed and those who are not. 
